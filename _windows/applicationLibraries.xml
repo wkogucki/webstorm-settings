@@ -1,0 +1,20 @@
+<application>
+  <component name="libraryTable">
+    <library name="@types/jasmine" type="javaScript">
+      <CLASSES />
+      <SOURCES />
+    </library>
+    <library name="@types/jest" type="javaScript">
+      <CLASSES />
+      <SOURCES />
+    </library>
+    <library name="@types/jest-get-type" type="javaScript">
+      <CLASSES />
+      <SOURCES />
+    </library>
+    <library name="@types/karma-jasmine" type="javaScript">
+      <CLASSES />
+      <SOURCES />
+    </library>
+  </component>
+</application>
